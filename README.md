@@ -1,0 +1,1 @@
+This repository showcases my solutions to coding challenges and practice exercises completed during Campus Recruitment Training, demonstrating problem-solving, algorithmic thinking, and programming skills.
